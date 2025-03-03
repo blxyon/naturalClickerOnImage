@@ -125,6 +125,6 @@ This script automates mouse movement and clicking in a natural, human-like way. 
    ```
 4. Run the script:
    ```bash
-   python automation_script.py
+   python autoclickerimage.py
    ```
 
