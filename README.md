@@ -117,7 +117,7 @@ This script automates mouse movement and clicking in a natural, human-like way. 
 1. Install Python from [python.org](https://www.python.org/downloads/).
 2. Install the required libraries:
    ```bash
-   pip install keyboard pyautogui pynput pydirectinput opencv-python numpy pywin32
+   pip install keyboard pyautogui pynput pydirectinput opencv-python numpy pywin32 Pillow pyscreeze
    ```
 3. Run the `pywin32` post-install script (Windows only) from \AppData\Local\Programs\Python\Python313\Scripts>py pywin32_postinstall.py -install:
    ```bash
