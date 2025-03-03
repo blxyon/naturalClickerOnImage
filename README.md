@@ -119,7 +119,7 @@ This script automates mouse movement and clicking in a natural, human-like way. 
    ```bash
    pip install keyboard pyautogui pynput pydirectinput opencv-python numpy pywin32
    ```
-3. Run the `pywin32` post-install script (Windows only):
+3. Run the `pywin32` post-install script (Windows only) from \AppData\Local\Programs\Python\Python313\Scripts>py pywin32_postinstall.py -install:
    ```bash
    python Scripts/pywin32_postinstall.py -install
    ```
